@@ -1,0 +1,11 @@
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.csprojAssemblyReference.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.csproj.CoreCompileInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.AssemblyInfoInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.AssemblyInfo.cs
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\bin\Debug\netcoreapp2.2\Task1.deps.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\bin\Debug\netcoreapp2.2\Task1.runtimeconfig.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\bin\Debug\netcoreapp2.2\Task1.runtimeconfig.dev.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\bin\Debug\netcoreapp2.2\Task1.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\bin\Debug\netcoreapp2.2\Task1.pdb
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Week 1\Task1\obj\Debug\netcoreapp2.2\Task1.pdb
