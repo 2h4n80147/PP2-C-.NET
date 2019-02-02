@@ -11,7 +11,7 @@ namespace Task_4
                 for (int j = 1; j <= i; j++) { // iterating over columns
                     Console.Write ("[*]"); // printing a block
                 }
-                Console.WriteLine(); // moving cursor to the nex line
+                Console.WriteLine(); // moving to the next line(row) in console
             }
         }
     }

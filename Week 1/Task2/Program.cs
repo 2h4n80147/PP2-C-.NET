@@ -3,7 +3,7 @@
 namespace Task_2
 {
     class Student {
-        string name;
+        string name; 
         string id;
         int year;
 
