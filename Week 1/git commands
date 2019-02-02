@@ -1,4 +1,4 @@
 git add "Week 1"
-git commit
-git pull -u origin master
-git push -u origin master
+git commit -m "C#"
+git pull
+git push
