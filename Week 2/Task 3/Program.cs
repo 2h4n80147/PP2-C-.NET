@@ -7,7 +7,7 @@ namespace Task_3
     {
         static void Main()
         {
-            DirectoryInfo root = new DirectoryInfo (@"C:\Olymp\Competetive-Programming");
+            DirectoryInfo root = new DirectoryInfo (@"C:\Olymp\C#\PP2\Programming-Principles-2-KBTU");
             file_tree (root, 0);
         }
         static void file_tree (DirectoryInfo root, int lvl) {
