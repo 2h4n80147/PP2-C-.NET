@@ -30,6 +30,7 @@ namespace Task
         }
         static void Main(string[] args)
         {
+            
             string path = @"C:\Olymp\C#\PP2\Programming-Principles-2-KBTU"; // path of the root directory
             DirectoryInfo dir = new DirectoryInfo (path); // information about root directory
 
