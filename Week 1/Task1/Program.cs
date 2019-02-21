@@ -18,7 +18,7 @@ namespace Task1
                     pr.Add (a[i]); // add a[i] to the back of pr
             }
             Console.WriteLine (pr.Count); // print the size of prime numbers subset
-            foreach  (var x in pr) // print primes
+            foreach (int x in pr) // print primes
                 Console.Write (x.ToString() + " "); // convert integers to the strings and print them with spaces
         }
         static bool isPrime (int x) {

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Test\\sat.sh.task\\sat.sh.task.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.csprojAssemblyReference.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.csproj.CoreCompileInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.AssemblyInfoInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.AssemblyInfo.cs
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\bin\Debug\netcoreapp2.2\sat.sh.task.deps.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\bin\Debug\netcoreapp2.2\sat.sh.task.runtimeconfig.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\bin\Debug\netcoreapp2.2\sat.sh.task.runtimeconfig.dev.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\bin\Debug\netcoreapp2.2\sat.sh.task.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\bin\Debug\netcoreapp2.2\sat.sh.task.pdb
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\sat.sh.task\obj\Debug\netcoreapp2.2\sat.sh.task.pdb

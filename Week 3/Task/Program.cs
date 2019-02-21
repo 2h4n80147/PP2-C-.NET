@@ -31,12 +31,13 @@ namespace Task
         static void Main(string[] args)
         {
             //new
-            string path = @"C:\Olymp\C#\PP2\Programming-Principles-2-KBTU"; // path of the root directory
+            string path = @"C:\Users\User\Desktop\yyy"; // path of the root directory
             DirectoryInfo dir = new DirectoryInfo (path); // information about root directory
 
             Stack <window> windows= new Stack<window>(); // create a stack of windows to be able to restore previous windows
             windows.Push (new window (dir.GetFileSystemInfos())); // add a window for a root
-
+            // 1 3 4 5 
+            // 5 4 3 1
             while (true) {
                 window cur = windows.Peek(); // get current window from top of the stack
                 cur.draw();                 // print this window
@@ -70,13 +71,13 @@ namespace Task
                 }
                 if (k.Key == ConsoleKey.F2) // if key is F2, rename the filename under the cursor
                 {
-                    Console.WriteLine ("Enter new name:"); // ask an user to enter the new name
-                    string name = Console.ReadLine(); // new name is red
-                    string prev = cur.list[cur.cursor].FullName; // old name
-
-                    string next = Path.Combine (Path.GetDirectoryName (prev), name); // path for the new name
-                    Directory.Move (prev, next); // move from old name to the new name (ala rename)
-                    cur.list = new DirectoryInfo(Path.GetDirectoryName(prev) ).GetFileSystemInfos(); // update current list of files in the current window
+                    string old = cur.list[cur.cursor].FullName;
+                    Console.Clear();
+                    Console.WriteLine("Enter new name: ");
+                    string newname = Console.ReadLine();
+                    string newpath = Path.Combine(Path.GetDirectoryName(old), newname);
+                    Directory.Move(old, newpath);
+                    cur.list = (new DirectoryInfo(Path.GetDirectoryName(newpath))).GetFileSystemInfos();
                 }
                 if (k.Key == ConsoleKey.Delete) // if the key is delete, delete under the cursor
                 {
