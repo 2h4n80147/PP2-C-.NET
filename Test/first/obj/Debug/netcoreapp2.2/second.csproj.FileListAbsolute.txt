@@ -1,0 +1,11 @@
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\bin\Debug\netcoreapp2.2\second.deps.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\bin\Debug\netcoreapp2.2\second.runtimeconfig.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\bin\Debug\netcoreapp2.2\second.runtimeconfig.dev.json
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\bin\Debug\netcoreapp2.2\second.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\bin\Debug\netcoreapp2.2\second.pdb
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.csprojAssemblyReference.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.csproj.CoreCompileInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.AssemblyInfoInputs.cache
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.AssemblyInfo.cs
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.dll
+c:\Olymp\C#\PP2\Programming-Principles-2-KBTU\Test\first\obj\Debug\netcoreapp2.2\second.pdb

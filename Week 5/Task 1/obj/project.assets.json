@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Test\\first\\second.csproj",
-      "projectName": "second",
-      "projectPath": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Test\\first\\second.csproj",
+      "projectUniqueName": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Week 5\\Task 1\\Task 1.csproj",
+      "projectName": "Task 1",
+      "projectPath": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Week 5\\Task 1\\Task 1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Test\\first\\obj\\",
+      "outputPath": "c:\\Olymp\\C#\\PP2\\Programming-Principles-2-KBTU\\Week 5\\Task 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
