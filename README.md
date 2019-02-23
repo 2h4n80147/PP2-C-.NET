@@ -8,4 +8,4 @@ Here I upload my labaratory tasks.
 
 * [Week 3](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrvo1550kclv/Lab3_pp2.pdf) - Far maanger
 
-* [Week 5] (https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsfodny9y6sn/TSIS4_PP2.pdf) - Serialization and Deserialization
+* [Week 5](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsfodny9y6sn/TSIS4_PP2.pdf) - Serialization and Deserialization
