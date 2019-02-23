@@ -1,6 +1,7 @@
 # Programming-Principles-2-KBTU
 
-Here I upload my labaratory tasks.
+Here I upload my labaratory tasks(TSIS)
+The following files have tasks for each lesson and list of resource links of c# tutorials
 
 * [Week 1](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrbpmhuflnt/Lab1_PP2.pdf) - C# first lesson
 
