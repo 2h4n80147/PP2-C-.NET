@@ -11,3 +11,10 @@ The following list contains tasks for each lesson and resouce lists of c# docume
 * [Week 3](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrvo1550kclv/Lab3_pp2.pdf) - Far manager, Explorer
 
 * [Week 5](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsfodny9y6sn/TSIS4_PP2.pdf) - Serialization and Deserialization
+
+* [Week 6](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jspon0p3htms/TSIS5.pdf) - Snake
+
+* [Week 7](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jt9psybvdssf/TSIS6_PP2.pdf) - Thread. Snake with Thread.
+
+* [Week 8](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jtb17weri1vt/TSIS7_PP2.pdf) - Windows Forms Applications : Simple Calculator App
+
