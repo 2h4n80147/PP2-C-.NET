@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Post>
+    <author>
+      <name>Abay</name>
+      <surname>Kunanbay</surname>
+      <age>35</age>
+    </author>
+    <date>1900-07-20T18:30:25</date>
+    <text>Kara soz</text>
+  </Post>
+  <Post>
+    <author>
+      <name>Green</name>
+      <surname>Kunanbay</surname>
+      <age>35</age>
+    </author>
+    <date>1800-07-20T18:30:25</date>
+    <text>Hello</text>
+  </Post>
+  <Post>
+    <author>
+      <name>Lenin</name>
+      <surname>Kunanbay</surname>
+      <age>35</age>
+    </author>
+    <date>2000-07-20T18:30:25</date>
+    <text>Krasota</text>
+  </Post>
+</ArrayOfPost>
