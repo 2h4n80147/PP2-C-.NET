@@ -18,3 +18,6 @@ The following list contains tasks for each lesson and resouce lists of c# docume
 
 * [Week 8](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jtb17weri1vt/TSIS7_PP2.pdf) - Windows Forms Applications : Simple Calculator App
 
+* [Week 9](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/ju53l681m5h3/TSIS8_PP2.pdf) - Graphics
+
+* [Week 10](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/ju53mcuw909w/TSIS9_PP2.pdf) - Paint app
