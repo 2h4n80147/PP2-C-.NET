@@ -17,7 +17,7 @@ namespace WindowsFormsApplication2
 			InitializeComponent();
 		}
 
-		int timer = 0;
+		static int timer = 0;
 		private void label1_Click(object sender, EventArgs e)
 		{
 			timer++;

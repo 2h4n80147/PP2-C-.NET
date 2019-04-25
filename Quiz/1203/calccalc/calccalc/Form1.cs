@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication3
+namespace calccalc
 {
 	public partial class Form1 : Form
 	{
@@ -34,4 +34,5 @@ namespace WindowsFormsApplication3
 			textBox1.Text = text;
 		}
 	}
+
 }

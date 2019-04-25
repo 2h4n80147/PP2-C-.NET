@@ -9,7 +9,7 @@ using System.Xml.Serialization;
 namespace task1
 {
 	public class Author
-	{
+	{c
 		public string name;
 		public string surname;
 		public int age;
