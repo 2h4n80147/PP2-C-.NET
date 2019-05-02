@@ -22,5 +22,5 @@ The following list contains tasks for each lesson and resouce lists of c# docume
 
 * [Week 10](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/ju53mcuw909w/TSIS9_PP2.pdf) - Paint app
 
-* Week 11. [SQL Studio](https://sqlitestudio.pl/index.rvt?act=download) [SQL Tutorial](https://www.w3schools.com/sql/) http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki
+* Week 11. [SQL Studio](https://sqlitestudio.pl/index.rvt?act=download) || [SQL Tutorial](https://www.w3schools.com/sql/)  || http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki
 
