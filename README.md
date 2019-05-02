@@ -1,8 +1,6 @@
 # Programming-Principles-2-KBTU
 
-Here I upload my labaratory tasks(TSIS).
-
-The following list contains tasks for each lesson and resouce lists of c# documentatoin tutorials from https://docs.microsoft.com/en-us/dotnet/csharp/.
+Here I upload my labaratory tasks(TSIS) and tutorials I get from university course. 
 
 * [Week 1](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrbpmhuflnt/Lab1_PP2.pdf) - C# first lesson
 
