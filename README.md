@@ -22,3 +22,5 @@ Here I upload my labaratory tasks(TSIS) and tutorials I get from university cour
 
 * Week 11. _Databases_. [SQL Studio](https://sqlitestudio.pl/index.rvt?act=download) || [SQL Tutorial](https://www.w3schools.com/sql/)  || http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki
 
+# Current Status
+* Need to implement and upload recent tasks starting from threaded snake until recent. Learned the topic, but haven's shared with Github ):-(
