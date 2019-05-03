@@ -24,3 +24,5 @@ Here I upload my labaratory tasks(TSIS) and tutorials I get from university cour
 
 # Current Status
 * Need to implement and upload recent tasks starting from threaded snake until recent. Learned the topic, but haven's shared with Github ):-(
+
+* Course Calendar [Syllabulus](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsbay41p6ae8/Syllabus_PP2.pdf)
