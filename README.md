@@ -2,6 +2,9 @@
 
 Here I upload my labaratory tasks(TSIS) and tutorials I get from university course. 
 
+* Course Calendar [Syllabulus](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsbay41p6ae8/Syllabus_PP2.pdf)
+
+
 * [Week 1](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrbpmhuflnt/Lab1_PP2.pdf) - C# first lesson
 
 * [Week 2](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jrlzs8n82e2f/Lab2_PP2.pdf) - operations on files(move, change, delete, create ..)
@@ -23,6 +26,4 @@ Here I upload my labaratory tasks(TSIS) and tutorials I get from university cour
 * Week 11. _Databases_. [SQL Studio](https://sqlitestudio.pl/index.rvt?act=download) || [SQL Tutorial](https://www.w3schools.com/sql/)  || http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki
 
 # Current Status
-* Need to implement and upload recent tasks starting from threaded snake until recent. Learned the topic, but haven's shared with Github ):-(
-
-* Course Calendar [Syllabulus](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsbay41p6ae8/Syllabus_PP2.pdf)
+* Don't upload tasks
