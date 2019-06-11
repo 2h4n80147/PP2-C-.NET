@@ -2,6 +2,10 @@
 
 Here I upload my labaratory tasks(TSIS) and tutorials I get from university course. 
 
+Teacher's github.
+https://github.com/Beisenbek/PP2_2019
+I'm in 3rd group.
+
 * Course Calendar [Syllabulus](https://d1b10bmlvqabco.cloudfront.net/attach/jrblfrwdsdm685/i30ei1gp25gpx/jsbay41p6ae8/Syllabus_PP2.pdf)
 
 
