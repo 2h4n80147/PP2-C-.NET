@@ -1,6 +1,6 @@
 # Programming-Principles-2-KBTU
 
-Here I upload my labaratory tasks(TSIS) and tutorials I get from university course. 
+Here I upload my labaratory tasks(TSIS) and some resources.
 
 Teacher's github.
 https://github.com/Beisenbek/PP2_2019
