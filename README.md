@@ -29,5 +29,3 @@ I'm in 3rd group.
 
 * Week 11. _Databases_. [SQL Studio](https://sqlitestudio.pl/index.rvt?act=download) || [SQL Tutorial](https://www.w3schools.com/sql/)  || http://system.data.sqlite.org/index.html/doc/trunk/www/downloads.wiki
 
-# Current Status
-* Don't upload tasks
